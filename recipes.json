@@ -1,0 +1,19 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "cuisine": "Italian",
+        "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan cheese"],
+        "instructions": "1. Cook the spaghetti according to package instructions until al dente.\n\n2. While the spaghetti is cooking, heat a skillet over medium heat. Add the pancetta and cook until crispy.\n\n3. In a mixing bowl, whisk together the eggs and grated Parmesan cheese.\n\n4. Once the spaghetti is cooked, drain it and add it to the skillet with the cooked pancetta. Toss to combine.\n\n5. Remove the skillet from heat and quickly pour the egg mixture over the spaghetti, stirring continuously to coat the pasta evenly. The heat from the spaghetti will cook the eggs, creating a creamy sauce.\n\n6. Serve immediately, garnished with additional grated Parmesan cheese and freshly ground black pepper if desired."
+      },
+      {
+        "id": 2,
+        "title": "Chicken Tikka Masala",
+        "cuisine": "Indian",
+        "ingredients": ["Chicken", "Yogurt", "Tomatoes", "Spices"],
+        "instructions": "1. Marinate the chicken: In a large bowl, combine the chicken pieces with yogurt and a mixture of spices (such as cumin, coriander, turmeric, garam masala, and chili powder). Ensure the chicken is well coated with the marinade. Cover the bowl and refrigerate for at least 1 hour, or preferably overnight, to allow the flavors to meld and the chicken to tenderize.\n\n2. Preheat the grill: If using a grill, preheat it to medium-high heat. Alternatively, you can use a skillet or oven.\n\n3. Grill or cook the chicken: Thread the marinated chicken pieces onto skewers if grilling. Grill the chicken skewers for about 10-12 minutes, turning occasionally, until they are cooked through and have charred edges. If cooking indoors, you can use a skillet or oven. Cook the chicken in batches if needed.\n\n4. Prepare the sauce: In a separate large skillet or pot, heat some oil over medium heat. Add diced onions and cook until they are soft and translucent, about 5-7 minutes. Add minced garlic and ginger, and cook for another 1-2 minutes until fragrant.\n\n5. Add tomatoes and spices: Stir in diced tomatoes and cook until they start to break down and release their juices, about 5-7 minutes. Add additional spices like garam masala, ground coriander, ground cumin, paprika, and chili powder. Adjust the seasoning to taste with salt and pepper.\n\n6. Simmer the sauce: Once the tomatoes are softened and the spices are fragrant, add a splash of water or chicken broth to the skillet. Bring the mixture to a simmer and let it cook for about 10-15 minutes, stirring occasionally, until the sauce thickens slightly.\n\n7. Finish the dish: Add the cooked chicken pieces to the skillet with the sauce. Stir to coat the chicken pieces evenly with the sauce. Let the chicken simmer in the sauce for a few more minutes to absorb the flavors.\n\n8. Serve: Garnish the Chicken Tikka Masala with chopped fresh cilantro and a drizzle of cream or yogurt, if desired. Serve hot with rice, naan bread, or your favorite Indian side dishes.\n\nEnjoy your delicious homemade Chicken Tikka Masala! Adjust the seasoning and spice level according to your preference."
+      }
+
+    ]
+  }

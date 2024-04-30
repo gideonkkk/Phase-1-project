@@ -1,0 +1,95 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d8910e;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    background-image: url(images/brown\ chicken.jpg);
+    background-position: center; 
+    width: 100%; 
+    height: 500px;
+}
+#search-container {
+    padding: 20px;
+    background-color: #d8915e;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#recipe-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #d8915e;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    float: left;
+    clear: left;
+}
+
+#recipe-form {
+    margin-right: 20px;
+}
+
+#recipe-form input[type="text"],
+#recipe-form textarea {
+    width: 100%;
+    
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#recipe-form input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#recipe-form button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    color: #d8915e;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#recipe-form button[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+
+footer {
+    background-color: #d8910e;
+    color: #020202;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

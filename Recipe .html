@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Sharing Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Recipe Sharing Platform</h1>
+        <nav>
+            <ul>
+                <li><a href=" ">Home</a></li>
+                <li><a href=" ">Browse</a></li>
+                <li><a href=" ">Upload Recipe</a></li>
+                <li><a href=" ">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+               <div id="search-container">
+            <input type="text" id="search-input" placeholder="Search recipes...">
+            <select id="cuisine-select">
+                <option value="">All Cuisines</option>
+            </select>
+            <input type="text" id="ingredient-input" placeholder="Enter ingredients...">
+            <button id="search-button">Search</button>
+        </div>
+        <div id="search-results">
+        </div>
+        <form id="recipe-form" enctype="multipart/form-data">
+    <input type="text" id="recipe-title" placeholder="Recipe Title" required>
+    <textarea id="recipe-ingredients" placeholder="Ingredients" required></textarea>
+    <textarea id="recipe-instructions" placeholder="Instructions" required></textarea>
+    <input type="file" id="recipe-image" accept="image/*">
+    <button type="submit">Submit Recipe</button>
+</form>
+    </main>
+
+    <footer>
+        <p>Delicious Sweet Food at your finger-TIPS</p>
+    </footer>
+    
+    <script src="recipe.js"></script>
+</body>
+</html>
